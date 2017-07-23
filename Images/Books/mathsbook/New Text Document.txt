@@ -1,0 +1,10 @@
+1,)Gödel, Escher, Bach: An Eternal Golden Braid 
+     	by Douglas R. Hofstadter
+2,)What Is Mathematics?: An Elementary Approach to Ideas and Methods 
+	by Richard Courant
+3,)Euclid's Elements 
+	by Euclid  
+4.)Journey through Genius: The Great Theorems of Mathematics 
+	by William Dunham
+5.)Fermat's Enigma: The Epic Quest to Solve the World's Greatest Mathematical Problem 
+	by Simon Singh 
